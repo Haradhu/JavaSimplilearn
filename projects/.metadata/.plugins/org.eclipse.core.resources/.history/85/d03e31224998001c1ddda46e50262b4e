@@ -1,0 +1,20 @@
+package com.har.corejava;
+
+
+
+abstract class AnonymousInnerclass{  
+	  abstract void come();  
+	}  
+	class TestAnonymousInner{  
+	 public static void main(String args[])
+	 {  
+		 AnonymousInnerclass n=new AnonymousInnerclass()
+		 {  
+	  void come()
+	  {
+		  System.out.println("Welcome Home");
+		  }  
+	  };
+	  n.come();  
+	 }  
+	}  

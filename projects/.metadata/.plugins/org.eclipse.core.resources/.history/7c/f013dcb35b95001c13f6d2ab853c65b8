@@ -1,0 +1,10 @@
+package com.demo.projects;
+import java.io.File;
+public class CreateNewFile {
+	
+public static void main(String[] args) {
+	File file =new File("F:\\Harish\\projects\\HarishProjects\\Input.txt");
+	System.out.println(file);
+}
+
+}

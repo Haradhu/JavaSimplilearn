@@ -1,0 +1,40 @@
+package com.har.corejava;
+
+public class SearchingEmail 
+{ 
+    public static boolean isValid(String email) 
+    { 
+        // Get an EmailValidator instance first
+    	SearchingEmail validator = SearchingEmail.getInstance();
+ 
+        // check valid email address
+        if (!validator.isValid(email)) {
+            return false;
+        }
+        return true;
+    } 
+ 
+    private static SearchingEmail getInstance() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	/* driver function to check */
+    public static void main(String[] args) 
+    { 
+        String email1 = "admin@java2blog.com"; 
+        String email2 = "@java2blog.com";
+        String email3 = "arpit.mandliya@java2blog.com";
+        String[] emails= {email1,email2,email3};
+ 
+        for (int i = 0; i < emails.length; i++) {
+            String email=emails[i];
+            if (isValid(email)) 
+                System.out.print(email+" is valid email"); 
+            else
+                System.out.print(email+" is invalid email"); 
+ 
+            System.out.println();
+        }
+    } 
+} 
