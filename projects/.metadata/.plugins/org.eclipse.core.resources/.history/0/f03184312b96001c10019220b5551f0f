@@ -1,5 +1,0 @@
-package com.har.abs;
-
-public interface Harddisk{
-
-}
