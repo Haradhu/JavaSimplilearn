@@ -1,0 +1,13 @@
+package com.har.inheritance;
+
+
+public class Test  
+{ 
+    public static void main(String args[])  
+    { 
+        SportsCar mb = new SportsCar(7, 200, 2); 
+        System.out.println(mb.toString());
+    } 
+}
+
+
