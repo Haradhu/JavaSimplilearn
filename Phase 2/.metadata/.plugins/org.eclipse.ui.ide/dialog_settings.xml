@@ -97,6 +97,9 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Sudu\Downloads\jsp_repo-master\jsp_repo-master\JSTL"/>
+			<item value="C:\Users\Sudu\Downloads\jsp_repo-master\jsp_repo-master\Sample_Mini_Project"/>
+			<item value="C:\Users\Sudu\Downloads\jsp_repo-master\jsp_repo-master\JSP_ActionTags"/>
 			<item value="C:\Users\Sudu\Downloads\phase2-master\phase2-master\StoredProcedureDemo"/>
 			<item value="C:\Users\Sudu\Downloads\phase -2\phase -2\phase2\RetrieveProductDetails"/>
 			<item value="C:\Users\Sudu\Downloads\Validation_of_User_Login"/>
