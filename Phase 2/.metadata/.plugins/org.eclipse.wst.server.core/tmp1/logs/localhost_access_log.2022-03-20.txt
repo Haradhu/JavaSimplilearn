@@ -1,0 +1,17 @@
+127.0.0.1 - - [20/Mar/2022:16:18:09 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Mar/2022:16:18:31 +0530] "GET /HibernateAnnotations HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Mar/2022:16:18:31 +0530] "GET /HibernateAnnotations/ HTTP/1.1" 404 776
+0:0:0:0:0:0:0:1 - - [20/Mar/2022:16:18:31 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [20/Mar/2022:16:19:38 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Mar/2022:16:19:40 +0530] "GET /HibernateAnnotations/list HTTP/1.1" 500 2050
+127.0.0.1 - - [20/Mar/2022:17:41:41 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Mar/2022:17:41:42 +0530] "GET /HibernateConfig_Log4j/WEB-INF/classes/log4j.properties HTTP/1.1" 404 682
+127.0.0.1 - - [20/Mar/2022:18:41:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Mar/2022:18:41:26 +0530] "GET /HibernateComponentMapping HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Mar/2022:18:41:26 +0530] "GET /HibernateComponentMapping/ HTTP/1.1" 404 781
+127.0.0.1 - - [20/Mar/2022:19:33:05 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Mar/2022:19:33:06 +0530] "GET /Validation_of_User_Login/index.html HTTP/1.1" 200 401
+0:0:0:0:0:0:0:1 - - [20/Mar/2022:19:33:21 +0530] "POST /Validation_of_User_Login/Login HTTP/1.1" 200 459
+127.0.0.1 - - [20/Mar/2022:19:34:21 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Mar/2022:19:34:50 +0530] "POST /Validation_of_User_Login/Login HTTP/1.1" 200 459
+0:0:0:0:0:0:0:1 - - [20/Mar/2022:19:34:52 +0530] "POST /Validation_of_User_Login/Login HTTP/1.1" 200 459
