@@ -3144,3 +3144,5 @@ Caused by: java.lang.NoClassDefFoundError: Could not initialize class org.apache
 2022-04-05 13:22:30,006 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sudu\Desktop\Harish documents (1)-20220129T045538Z-001\Harish documents (1)\Mphasis (1)\phase-3\phase-3\Assisted\junitExample2\src\main\resources
 2022-04-05 13:22:30,009 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-05 13:22:30,009 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sudu\Desktop\Harish documents (1)-20220129T045538Z-001\Harish documents (1)\Mphasis (1)\phase-3\phase-3\Assisted\junitExample2\src\test\resources
+2022-04-11 15:05:32,073 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-04-11 15:05:48,221 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
